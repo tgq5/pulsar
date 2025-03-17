@@ -1,0 +1,82 @@
+[
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/11044",
+        "earliest_issue_date": "2021-06-23T10:09:51Z",
+        "fix_commit_hash": "ce6be124c9c86a6e10604ff44dc817f5d6f13c0e",
+        "tipo": "PR"
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/11032",
+        "earliest_issue_date": "2021-06-23T05:42:57Z",
+        "fix_commit_hash": "5caca1a995d316b73e3d6a9ba2ab4fdcc02211da",
+        "tipo": "PR"
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/11013",
+        "earliest_issue_date": "2021-06-22T07:56:36Z",
+        "fix_commit_hash": "fe7cf676e59e08b34b388fce3a190133d390d61c",
+        "tipo": "PR"
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/11008",
+        "earliest_issue_date": "2021-06-21T20:18:50Z",
+        "fix_commit_hash": "09944d9891e0a433da9c7a1cf7b80acf5b3c1116",
+        "tipo": "PR"
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/11007",
+        "earliest_issue_date": "2021-06-21T16:12:15Z",
+        "fix_commit_hash": "a78b0293a7e44b5dd14c93296c61885ab4409a54",
+        "tipo": "PR"
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/11002",
+        "earliest_issue_date": "2021-06-21T12:24:51Z",
+        "fix_commit_hash": "3fcfb22e71c9774f710d659030d4af01eb05c956",
+        "tipo": "PR"
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/10994",
+        "earliest_issue_date": "2021-06-21T03:40:24Z",
+        "fix_commit_hash": "37d3fea4c4553b7e2db992e63e9346c808b0f47c",
+        "tipo": "PR"
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/10990",
+        "earliest_issue_date": "2021-06-20T13:12:30Z",
+        "fix_commit_hash": "1017fe1312a5b5d90272725dfaa8a60186c69b3b",
+        "tipo": "PR"
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/10989",
+        "earliest_issue_date": "2021-06-20T09:30:17Z",
+        "fix_commit_hash": "a369d26e99fc13450f2078428ea89a7649ad92c2",
+        "tipo": "PR"
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/10971",
+        "earliest_issue_date": "2021-06-18T08:40:58Z",
+        "fix_commit_hash": "4a3936e30d72adef0b479a65785626ee43ed0559",
+        "tipo": "PR"
+    }
+]
