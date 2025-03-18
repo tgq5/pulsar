@@ -2,81 +2,228 @@
     {
         "repo_name": "pulsar",
         "repo_url": "apache/pulsar",
-        "issue_html_url": "https://github.com/apache/pulsar/issues/5588",
-        "earliest_issue_date": "2019-11-07T13:11:15Z",
-        "fix_commit_hash": "7ec17b2e74f99c353f66433226952fbf4596d7b0",
-        "tipo": "PR"
+        "issue_html_url": "https://github.com/apache/pulsar/issues/18927",
+        "earliest_issue_date": "2022-12-14T12:53:21Z",
+        "fix_commit_hash": "46cacffd882259712271d6d01ba3c10d3355b112",
+        "tipo": "PR",
+        "commit_author": "Lari Hotari",
+        "commiter": "GitHub",
+        "commit_date": "2022-12-20T22:37:33+02:00",
+        "committer_data": "2022-12-20T22:37:33+02:00",
+        "changed_files": 1,
+        "deletions": 13,
+        "insertions": 47,
+        "lines": 60,
+        "dmm_unit_size": 0.42857142857142855,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 0.8571428571428571,
+        "files_exts": [
+            "java"
+        ]
     },
     {
         "repo_name": "pulsar",
         "repo_url": "apache/pulsar",
-        "issue_html_url": "https://github.com/apache/pulsar/issues/5585",
-        "earliest_issue_date": "2019-11-07T10:00:34Z",
-        "fix_commit_hash": "f2f801af9c4b16e4142078a556166e16317b2dd3",
-        "tipo": "PR"
+        "issue_html_url": "https://github.com/apache/pulsar/issues/18923",
+        "earliest_issue_date": "2022-12-14T07:56:11Z",
+        "fix_commit_hash": "a35670d83b0b3f2fb63d11e4fb222d7f24099c9a",
+        "tipo": "PR",
+        "commit_author": "ken",
+        "commiter": "GitHub",
+        "commit_date": "2022-12-16T10:56:55+08:00",
+        "committer_data": "2022-12-16T10:56:55+08:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "java"
+        ]
     },
     {
         "repo_name": "pulsar",
         "repo_url": "apache/pulsar",
-        "issue_html_url": "https://github.com/apache/pulsar/issues/5579",
-        "earliest_issue_date": "2019-11-06T22:14:29Z",
-        "fix_commit_hash": "54b39e64f361a2ed5242259e04505bcfc66c1c8a",
-        "tipo": "PR"
+        "issue_html_url": "https://github.com/apache/pulsar/issues/18915",
+        "earliest_issue_date": "2022-12-14T02:58:32Z",
+        "fix_commit_hash": "7642604e9a16f2f0d4bc8eeed81d4ab295fef74d",
+        "tipo": "PR",
+        "commit_author": "Li Li",
+        "commiter": "GitHub",
+        "commit_date": "2022-12-14T18:44:43+08:00",
+        "committer_data": "2022-12-14T18:44:43+08:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "java"
+        ]
     },
     {
         "repo_name": "pulsar",
         "repo_url": "apache/pulsar",
-        "issue_html_url": "https://github.com/apache/pulsar/issues/5575",
-        "earliest_issue_date": "2019-11-06T13:35:50Z",
-        "fix_commit_hash": "96a9418808d65d3cbcb57e39fccceebe609d3db3",
-        "tipo": "PR"
+        "issue_html_url": "https://github.com/apache/pulsar/issues/18910",
+        "earliest_issue_date": "2022-12-13T13:07:17Z",
+        "fix_commit_hash": "83aaa0dff26e2f4ed55e320d85fa97751437d85c",
+        "tipo": "PR",
+        "commit_author": "houxiaoyu",
+        "commiter": "GitHub",
+        "commit_date": "2022-12-20T09:41:16+08:00",
+        "committer_data": "2022-12-20T09:41:16+08:00",
+        "changed_files": 5,
+        "deletions": 29,
+        "insertions": 95,
+        "lines": 124,
+        "dmm_unit_size": 0.1568627450980392,
+        "dmm_unit_complexity": 0.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java",
+            "java",
+            "java",
+            "java",
+            "java"
+        ]
     },
     {
         "repo_name": "pulsar",
         "repo_url": "apache/pulsar",
-        "issue_html_url": "https://github.com/apache/pulsar/issues/5566",
-        "earliest_issue_date": "2019-11-05T11:39:14Z",
-        "fix_commit_hash": "5c771d20d9a4ef171d51aa7c5da9e646c8f11ac5",
-        "tipo": "PR"
+        "issue_html_url": "https://github.com/apache/pulsar/issues/612",
+        "earliest_issue_date": "2017-08-01T17:09:38Z",
+        "fix_commit_hash": "d8e8813c550ab6ad8361de363f9f9c4107711c87",
+        "tipo": "Commit",
+        "commit_author": "Matteo Merli",
+        "commiter": "GitHub",
+        "commit_date": "2017-08-02T17:37:57-07:00",
+        "committer_data": "2017-08-02T17:37:57-07:00",
+        "changed_files": 1,
+        "deletions": 9,
+        "insertions": 8,
+        "lines": 17,
+        "dmm_unit_size": 0.0,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java"
+        ]
     },
     {
         "repo_name": "pulsar",
         "repo_url": "apache/pulsar",
-        "issue_html_url": "https://github.com/apache/pulsar/issues/5565",
-        "earliest_issue_date": "2019-11-05T10:01:33Z",
-        "fix_commit_hash": "602f1c207c220eb53defcedbd03e8732797e1e26",
-        "tipo": "PR"
+        "issue_html_url": "https://github.com/apache/pulsar/issues/578",
+        "earliest_issue_date": "2017-07-17T23:47:42Z",
+        "fix_commit_hash": "9dae207041e6835878b94669cddc26513387e312",
+        "tipo": "Commit",
+        "commit_author": "Matteo Merli",
+        "commiter": "jai1",
+        "commit_date": "2017-07-18T00:20:45-07:00",
+        "committer_data": "2017-07-18T00:20:45-07:00",
+        "changed_files": 1,
+        "deletions": 0,
+        "insertions": 8,
+        "lines": 8,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "java"
+        ]
     },
     {
         "repo_name": "pulsar",
         "repo_url": "apache/pulsar",
-        "issue_html_url": "https://github.com/apache/pulsar/issues/5562",
-        "earliest_issue_date": "2019-11-05T06:23:40Z",
-        "fix_commit_hash": "180e28aceb39d1683df034c8c2234595d23ab935",
-        "tipo": "PR"
+        "issue_html_url": "https://github.com/apache/pulsar/issues/511",
+        "earliest_issue_date": "2017-06-21T06:59:54Z",
+        "fix_commit_hash": "2ca1a7a9b0e9db66af6d2c71c64b6e66c8797cb7",
+        "tipo": "PR",
+        "commit_author": "Rajan",
+        "commiter": "GitHub",
+        "commit_date": "2017-06-21T11:33:06-07:00",
+        "committer_data": "2017-06-21T11:33:06-07:00",
+        "changed_files": 1,
+        "deletions": 23,
+        "insertions": 35,
+        "lines": 58,
+        "dmm_unit_size": 1.0,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java"
+        ]
     },
     {
         "repo_name": "pulsar",
         "repo_url": "apache/pulsar",
-        "issue_html_url": "https://github.com/apache/pulsar/issues/5561",
-        "earliest_issue_date": "2019-11-05T05:01:02Z",
-        "fix_commit_hash": "89d2d8d69b1f74e2cacf9cdd42e951a609e808fd",
-        "tipo": "PR"
+        "issue_html_url": "https://github.com/apache/pulsar/issues/458",
+        "earliest_issue_date": "2017-06-08T02:02:19Z",
+        "fix_commit_hash": "121ed54516983dd0ee01b7aafb1f26b1867cd5cb",
+        "tipo": "PR",
+        "commit_author": "Yuki Shiga",
+        "commiter": "Matteo Merli",
+        "commit_date": "2017-06-15T04:45:25+09:00",
+        "committer_data": "2017-06-14T12:45:25-07:00",
+        "changed_files": 2,
+        "deletions": 3,
+        "insertions": 17,
+        "lines": 20,
+        "dmm_unit_size": 1.0,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java",
+            "java"
+        ]
     },
     {
         "repo_name": "pulsar",
         "repo_url": "apache/pulsar",
-        "issue_html_url": "https://github.com/apache/pulsar/issues/5560",
-        "earliest_issue_date": "2019-11-05T02:48:47Z",
-        "fix_commit_hash": "3cf6be139e191f3fa058f01c469e1dbd4c8534be",
-        "tipo": "PR"
+        "issue_html_url": "https://github.com/apache/pulsar/issues/428",
+        "earliest_issue_date": "2017-05-22T10:44:23Z",
+        "fix_commit_hash": "8abafee5bc229d7e447aae3187885ab906c8290b",
+        "tipo": "PR",
+        "commit_author": "Matteo Merli",
+        "commiter": "Rajan",
+        "commit_date": "2017-06-14T17:11:48-07:00",
+        "committer_data": "2017-06-14T17:11:48-07:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 4,
+        "lines": 5,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "java"
+        ]
     },
     {
         "repo_name": "pulsar",
         "repo_url": "apache/pulsar",
-        "issue_html_url": "https://github.com/apache/pulsar/issues/5558",
-        "earliest_issue_date": "2019-11-04T14:03:30Z",
-        "fix_commit_hash": "3e7cb68bf9917f0701bfb3853fcf449926478b40",
-        "tipo": "PR"
+        "issue_html_url": "https://github.com/apache/pulsar/issues/380",
+        "earliest_issue_date": "2017-04-24T21:12:12Z",
+        "fix_commit_hash": "2e4475e334c6df1dee5246b1ce469b436ea6a7ee",
+        "tipo": "PR",
+        "commit_author": "Rajan",
+        "commiter": "Matteo Merli",
+        "commit_date": "2017-06-02T13:13:51-07:00",
+        "committer_data": "2017-06-02T13:13:51-07:00",
+        "changed_files": 3,
+        "deletions": 1,
+        "insertions": 105,
+        "lines": 106,
+        "dmm_unit_size": 0.22950819672131148,
+        "dmm_unit_complexity": 0.22950819672131148,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java",
+            "java",
+            "java"
+        ]
     }
 ]

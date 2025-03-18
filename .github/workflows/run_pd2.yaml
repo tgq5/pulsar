@@ -47,7 +47,7 @@ jobs:
       run: |
         mkdir -p pyszz_v2/repos_dir
         cd pyszz_v2/repos_dir
-        git clone https://github.com/junit-team/junit5.git
+        git clone https://github.com/apache/pulsar.git
       
     - name: Set up Python
       uses: actions/setup-python@v5.1.0
@@ -59,7 +59,7 @@ jobs:
       run: |
         echo "$(basename ${{ matrix.file }})"
         cp ../${{ matrix.file }} issues_data.json
-        bash run_docker.sh issues_data.json conf/pdszz_issues_filter_junit.yml /repos_dir/
+        bash run_docker.sh issues_data.json conf/pdszz_issues_filter_jabref_pulsar.yml /repos_dir/
 
     - name: Bring out file to main folder
       working-directory: pyszz_v2/
