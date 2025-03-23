@@ -1,0 +1,12 @@
+[
+    {
+        "fix_commit_hash": "537dee113ccb1e405a8fd1d5698b8f066f52bb53",
+        "repo_name": "pulsar",
+        "best_scenario_issue_date": "2021-12-03T13:39:55+02:00"
+    },
+    {
+        "fix_commit_hash": "40f94d5710f66132926f301606a74d24b1098877",
+        "repo_name": "pulsar",
+        "best_scenario_issue_date": "2023-11-02T13:59:31+08:00"
+    }
+]
