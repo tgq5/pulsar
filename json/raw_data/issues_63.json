@@ -1,0 +1,52 @@
+[
+    {
+        "fix_commit_hash": "a7f69736a85a7dce6230e2c735456f3ab89ba2a8",
+        "repo_name": "pulsar",
+        "best_scenario_issue_date": "2017-04-05T10:14:40-07:00"
+    },
+    {
+        "fix_commit_hash": "29db8f84e5f0f99b110d62090ab670c59bf4638a",
+        "repo_name": "pulsar",
+        "best_scenario_issue_date": "2023-10-30T18:58:49+08:00"
+    },
+    {
+        "fix_commit_hash": "272725a9ca4d0334df54aff4b751105949d2c253",
+        "repo_name": "pulsar",
+        "best_scenario_issue_date": "2019-01-13T10:18:16+09:00"
+    },
+    {
+        "fix_commit_hash": "61cb7caa920f468b6fb53176e2994cefb8cbcae3",
+        "repo_name": "pulsar",
+        "best_scenario_issue_date": "2018-04-26T23:50:33+02:00"
+    },
+    {
+        "fix_commit_hash": "e6b12c64b043903eb5ff2dc5186fe8030f157cfc",
+        "repo_name": "pulsar",
+        "best_scenario_issue_date": "2022-06-15T00:01:28-07:00"
+    },
+    {
+        "fix_commit_hash": "342404165b41cb92a2a16e162f729980bbe8764d",
+        "repo_name": "pulsar",
+        "best_scenario_issue_date": "2018-01-29T12:59:52-08:00"
+    },
+    {
+        "fix_commit_hash": "052814d516adb429d2c0fca030920f26770a52ac",
+        "repo_name": "pulsar",
+        "best_scenario_issue_date": "2018-03-04T09:11:18-08:00"
+    },
+    {
+        "fix_commit_hash": "fc109317349aa4b7ac0dd17757dda7a80fea1288",
+        "repo_name": "pulsar",
+        "best_scenario_issue_date": "2017-04-12T14:46:22-07:00"
+    },
+    {
+        "fix_commit_hash": "8568054470ed0dc0e8e9e7aaf0330375addc9b0b",
+        "repo_name": "pulsar",
+        "best_scenario_issue_date": "2021-03-24T07:33:54-07:00"
+    },
+    {
+        "fix_commit_hash": "06e911d4054daabca84556b80976b7e6ffa4c815",
+        "repo_name": "pulsar",
+        "best_scenario_issue_date": "2019-02-13T02:57:20+01:00"
+    }
+]
