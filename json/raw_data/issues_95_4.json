@@ -3,10 +3,5 @@
         "fix_commit_hash": "bcbeb53fd68a79e3ac94acae352188c84a8adc01",
         "repo_name": "pulsar",
         "best_scenario_issue_date": "2022-03-17T21:14:01+08:00"
-    },
-    {
-        "fix_commit_hash": "70da31b082ea0ff7466cdf740fc0d6b443d21861",
-        "repo_name": "pulsar",
-        "best_scenario_issue_date": "2017-06-23T11:23:49-07:00"
     }
 ]
