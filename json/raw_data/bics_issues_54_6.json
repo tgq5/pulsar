@@ -2,6 +2,7 @@
     {
         "fix_commit_hash": "70da31b082ea0ff7466cdf740fc0d6b443d21861",
         "repo_name": "pulsar",
-        "best_scenario_issue_date": "2017-06-23T11:23:49-07:00"
+        "best_scenario_issue_date": "2017-06-23T11:23:49-07:00",
+        "inducing_commit_hash_pyszz": []
     }
 ]
