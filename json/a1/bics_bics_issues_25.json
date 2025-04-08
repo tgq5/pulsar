@@ -1,0 +1,270 @@
+[
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/6368",
+        "earliest_issue_date": "2020-02-19T20:06:48Z",
+        "fix_commit_hash": "610b17d6433b0894a541421841b525741f8d5d40",
+        "tipo": "PR",
+        "commit_author": "Michael Marshall",
+        "commiter": "GitHub",
+        "commit_date": "2021-02-10T18:45:20-07:00",
+        "committer_data": "2021-02-10T17:45:20-08:00",
+        "changed_files": 3,
+        "deletions": 10,
+        "insertions": 25,
+        "lines": 35,
+        "dmm_unit_size": 0.5,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java",
+            "java",
+            "java"
+        ],
+        "matched": [
+            "035743ffa13de200c0fb36500c70d10b4c523a35"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/6363",
+        "earliest_issue_date": "2020-02-19T10:12:01Z",
+        "fix_commit_hash": "336e971f4d41d6ffb26b3b53a20f36a360c070e8",
+        "tipo": "PR",
+        "commit_author": "lipenghui",
+        "commiter": "GitHub",
+        "commit_date": "2020-02-23T19:43:48+08:00",
+        "committer_data": "2020-02-23T19:43:48+08:00",
+        "changed_files": 4,
+        "deletions": 43,
+        "insertions": 108,
+        "lines": 151,
+        "dmm_unit_size": 0.3541666666666667,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 0.6458333333333334,
+        "files_exts": [
+            "java",
+            "java",
+            "java",
+            "java"
+        ],
+        "matched": [
+            "f38a003a2a8331da94996fc7ea871abfc779ae24"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/6350",
+        "earliest_issue_date": "2020-02-18T05:45:02Z",
+        "fix_commit_hash": "63ccd43e1a3294d696a4af37c76261eed1bb3124",
+        "tipo": "PR",
+        "commit_author": "Yijie Shen",
+        "commiter": "GitHub",
+        "commit_date": "2020-02-24T12:27:08+08:00",
+        "committer_data": "2020-02-23T20:27:08-08:00",
+        "changed_files": 5,
+        "deletions": 24,
+        "insertions": 123,
+        "lines": 147,
+        "dmm_unit_size": 0.0,
+        "dmm_unit_complexity": 0.0,
+        "dmm_unit_interfacing": 0.875,
+        "files_exts": [
+            "java",
+            "java",
+            "java",
+            "java",
+            "java"
+        ],
+        "matched": [
+            "c57d5c2ce2f3784faea364cd3298baf5617ce993"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/6344",
+        "earliest_issue_date": "2020-02-17T12:37:14Z",
+        "fix_commit_hash": "63ccd43e1a3294d696a4af37c76261eed1bb3124",
+        "tipo": "PR",
+        "commit_author": "Yijie Shen",
+        "commiter": "GitHub",
+        "commit_date": "2020-02-24T12:27:08+08:00",
+        "committer_data": "2020-02-23T20:27:08-08:00",
+        "changed_files": 5,
+        "deletions": 24,
+        "insertions": 123,
+        "lines": 147,
+        "dmm_unit_size": 0.0,
+        "dmm_unit_complexity": 0.0,
+        "dmm_unit_interfacing": 0.875,
+        "files_exts": [
+            "java",
+            "java",
+            "java",
+            "java",
+            "java"
+        ],
+        "matched": [
+            "c57d5c2ce2f3784faea364cd3298baf5617ce993"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/20173",
+        "earliest_issue_date": "2023-04-24T09:26:57Z",
+        "fix_commit_hash": "187e0cf5708b358b844a8b3575ae6e350a39238b",
+        "tipo": "PR",
+        "commit_author": "jiangpengcheng",
+        "commiter": "GitHub",
+        "commit_date": "2023-10-18T09:57:47+08:00",
+        "committer_data": "2023-10-18T09:57:47+08:00",
+        "changed_files": 1,
+        "deletions": 0,
+        "insertions": 9,
+        "lines": 9,
+        "dmm_unit_size": 0.0,
+        "dmm_unit_complexity": 0.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "py"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/20160",
+        "earliest_issue_date": "2023-04-20T16:35:33Z",
+        "fix_commit_hash": "963260abfa142b8cf9ffe372d85d470a78c17235",
+        "tipo": "PR",
+        "commit_author": "lifepuzzlefun",
+        "commiter": "GitHub",
+        "commit_date": "2023-04-23T11:27:48+08:00",
+        "committer_data": "2023-04-23T11:27:48+08:00",
+        "changed_files": 1,
+        "deletions": 8,
+        "insertions": 10,
+        "lines": 18,
+        "dmm_unit_size": 1.0,
+        "dmm_unit_complexity": 0.7866666666666666,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java"
+        ],
+        "matched": [
+            "a8da549c582d2506b98b8d33247b8dc2415dab36"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/20157",
+        "earliest_issue_date": "2023-04-20T15:43:18Z",
+        "fix_commit_hash": "3eb3b1cd23d2cc11424bf882e244d3bc2e92bf27",
+        "tipo": "PR",
+        "commit_author": "Heesung Sohn",
+        "commiter": "GitHub",
+        "commit_date": "2024-04-01T01:52:21-07:00",
+        "committer_data": "2024-04-01T16:52:21+08:00",
+        "changed_files": 6,
+        "deletions": 29,
+        "insertions": 80,
+        "lines": 109,
+        "dmm_unit_size": 0.0,
+        "dmm_unit_complexity": 0.8125,
+        "dmm_unit_interfacing": 0.71875,
+        "files_exts": [
+            "java",
+            "java",
+            "java",
+            "java",
+            "java",
+            "java"
+        ],
+        "matched": [
+            "4ab4463fee5f773cc29104598c707ed25f827f37"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/20093",
+        "earliest_issue_date": "2023-04-14T02:35:31Z",
+        "fix_commit_hash": "a22700df665a9ea0a8db98334b6d4337e5e490f3",
+        "tipo": "PR",
+        "commit_author": "tison",
+        "commiter": "GitHub",
+        "commit_date": "2023-05-01T16:47:36+08:00",
+        "committer_data": "2023-05-01T16:47:36+08:00",
+        "changed_files": 3,
+        "deletions": 5,
+        "insertions": 33,
+        "lines": 38,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "java",
+            "java",
+            "java"
+        ],
+        "matched": [
+            "2aff473e598fe5e8ba9f8ed0860de35a67718725"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/20091",
+        "earliest_issue_date": "2023-04-13T23:37:22Z",
+        "fix_commit_hash": "43fcf39ea6db3f157ab3c65a607504fa2e4cda15",
+        "tipo": "PR",
+        "commit_author": "Massimiliano Mirelli",
+        "commiter": "GitHub",
+        "commit_date": "2023-06-03T01:44:54+02:00",
+        "committer_data": "2023-06-03T07:44:54+08:00",
+        "changed_files": 1,
+        "deletions": 0,
+        "insertions": 86,
+        "lines": 86,
+        "dmm_unit_size": 0.3870967741935484,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/20076",
+        "earliest_issue_date": "2023-04-12T07:43:41Z",
+        "fix_commit_hash": "2dec2677743a6c517deb6976718fbe3a9eef0644",
+        "tipo": "PR",
+        "commit_author": "crossoverJie",
+        "commiter": "GitHub",
+        "commit_date": "2023-06-05T16:10:44+08:00",
+        "committer_data": "2023-06-05T16:10:44+08:00",
+        "changed_files": 3,
+        "deletions": 1,
+        "insertions": 42,
+        "lines": 43,
+        "dmm_unit_size": 0.5714285714285714,
+        "dmm_unit_complexity": 0.5714285714285714,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java",
+            "java",
+            "java"
+        ],
+        "matched": [
+            "642461cf658c1f0ed7eed350a990fcaa39182703"
+        ]
+    }
+]

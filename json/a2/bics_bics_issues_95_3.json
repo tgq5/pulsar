@@ -1,0 +1,18 @@
+[
+    {
+        "fix_commit_hash": "ecd275dc21f33483a649e5b872990771257b1d45",
+        "repo_name": "pulsar",
+        "best_scenario_issue_date": "2022-05-19T11:50:25+08:00",
+        "matched": [
+            "190e5dbccda455a84ea7fdf491dac52cc50fbbdf"
+        ]
+    },
+    {
+        "fix_commit_hash": "d7e8ea16e6682df9a9354cda25cf4f1f9cb54429",
+        "repo_name": "pulsar",
+        "best_scenario_issue_date": "2024-07-19T12:38:41+09:00",
+        "matched": [
+            "e34ea626a65da4c8e1578010f857aa961a7b5c55"
+        ]
+    }
+]

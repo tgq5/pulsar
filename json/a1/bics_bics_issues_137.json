@@ -1,0 +1,271 @@
+[
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/11612",
+        "earliest_issue_date": "2021-08-10T01:52:43Z",
+        "fix_commit_hash": "ef711a753b367d966c074d8c2caffa5142488877",
+        "tipo": "PR",
+        "commit_author": "Aloys",
+        "commiter": "GitHub",
+        "commit_date": "2021-08-11T04:13:05+08:00",
+        "committer_data": "2021-08-10T22:13:05+02:00",
+        "changed_files": 3,
+        "deletions": 51,
+        "insertions": 110,
+        "lines": 161,
+        "dmm_unit_size": 0.0,
+        "dmm_unit_complexity": 0.0,
+        "dmm_unit_interfacing": 0.0,
+        "files_exts": [
+            "java",
+            "java",
+            "java"
+        ],
+        "matched": [
+            "11648aa65e2393874c94e69d5733846bbc9f22fa"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/11605",
+        "earliest_issue_date": "2021-08-09T12:35:51Z",
+        "fix_commit_hash": "43ded5927fb78add69196b46c1edc36bde77af0e",
+        "tipo": "PR",
+        "commit_author": "Zhanpeng Wu",
+        "commiter": "GitHub",
+        "commit_date": "2021-08-17T13:05:31+08:00",
+        "committer_data": "2021-08-16T22:05:31-07:00",
+        "changed_files": 3,
+        "deletions": 9,
+        "insertions": 73,
+        "lines": 82,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "java",
+            "java",
+            "java"
+        ],
+        "matched": [
+            "55af39759d78db90eaa26008ce21f14063b51130"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/11604",
+        "earliest_issue_date": "2021-08-09T12:11:42Z",
+        "fix_commit_hash": "6a25286a5e0127e0a051cde48a056148860351b2",
+        "tipo": "PR",
+        "commit_author": "Yunze Xu",
+        "commiter": "GitHub",
+        "commit_date": "2021-08-10T03:46:34+08:00",
+        "committer_data": "2021-08-09T12:46:34-07:00",
+        "changed_files": 1,
+        "deletions": 2,
+        "insertions": 3,
+        "lines": 5,
+        "dmm_unit_size": 1.0,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java"
+        ],
+        "matched": [
+            "993ea62108ed2c21bd14e0f1f7e792e0154435b9"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/11603",
+        "earliest_issue_date": "2021-08-09T08:55:42Z",
+        "fix_commit_hash": "346b04a8149df0683891408456bd4306b39f2103",
+        "tipo": "PR",
+        "commit_author": "tison",
+        "commiter": "GitHub",
+        "commit_date": "2022-12-12T09:09:25+08:00",
+        "committer_data": "2022-12-12T09:09:25+08:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "py"
+        ],
+        "matched": [
+            "08c97f703a5bf1de2330c4c6ae00a2fe170ed692"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/11581",
+        "earliest_issue_date": "2021-08-06T08:26:20Z",
+        "fix_commit_hash": "f7957a544bd697b8d69fd5ff380a8ffbeeb28a23",
+        "tipo": "PR",
+        "commit_author": "Lei Zhiyuan",
+        "commiter": "GitHub",
+        "commit_date": "2021-08-21T08:33:44+08:00",
+        "committer_data": "2021-08-20T17:33:44-07:00",
+        "changed_files": 1,
+        "deletions": 8,
+        "insertions": 8,
+        "lines": 16,
+        "dmm_unit_size": 0.0,
+        "dmm_unit_complexity": 0.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/11579",
+        "earliest_issue_date": "2021-08-06T05:44:10Z",
+        "fix_commit_hash": "0d707aec92595868192380758a46f8f02886128f",
+        "tipo": "PR",
+        "commit_author": "Lei Zhiyuan",
+        "commiter": "GitHub",
+        "commit_date": "2022-12-09T21:57:15+08:00",
+        "committer_data": "2022-12-09T21:57:15+08:00",
+        "changed_files": 2,
+        "deletions": 1,
+        "insertions": 50,
+        "lines": 51,
+        "dmm_unit_size": 0.8235294117647058,
+        "dmm_unit_complexity": 0.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java",
+            "java"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/11577",
+        "earliest_issue_date": "2021-08-06T00:56:15Z",
+        "fix_commit_hash": "b37ef081ec27e0a0b558dc239ecdd8fd1420210f",
+        "tipo": "PR",
+        "commit_author": "Arnar",
+        "commiter": "GitHub",
+        "commit_date": "2022-02-25T09:10:53+01:00",
+        "committer_data": "2022-02-25T16:10:53+08:00",
+        "changed_files": 1,
+        "deletions": 2,
+        "insertions": 2,
+        "lines": 4,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "py"
+        ],
+        "matched": [
+            "8dbee119232d58cf5fb617f5dfeaea5fcf44aa09"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/19196",
+        "earliest_issue_date": "2023-01-11T21:30:36Z",
+        "fix_commit_hash": "31fe347b39dcc8ce4c1e8d69eeb04649506bd4c6",
+        "tipo": "PR",
+        "commit_author": "labuladong",
+        "commiter": "GitHub",
+        "commit_date": "2023-02-03T07:40:17+08:00",
+        "committer_data": "2023-02-03T07:40:17+08:00",
+        "changed_files": 3,
+        "deletions": 46,
+        "insertions": 63,
+        "lines": 109,
+        "dmm_unit_size": 0.0,
+        "dmm_unit_complexity": 0.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java",
+            "java",
+            "java"
+        ],
+        "matched": [
+            "52cae2fee5e25b6a142c176d6829e130fa084881"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/19189",
+        "earliest_issue_date": "2023-01-11T13:29:58Z",
+        "fix_commit_hash": "0c4db3abe599722e0a36a92c6730c8ab7ee06011",
+        "tipo": "PR",
+        "commit_author": "houxiaoyu",
+        "commiter": "GitHub",
+        "commit_date": "2023-01-12T20:30:54+08:00",
+        "committer_data": "2023-01-12T20:30:54+08:00",
+        "changed_files": 2,
+        "deletions": 6,
+        "insertions": 33,
+        "lines": 39,
+        "dmm_unit_size": 1.0,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java",
+            "java"
+        ],
+        "matched": [
+            "b21e548dff0bfd98cc8a65bf9598674430d3a8b0"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/19175",
+        "earliest_issue_date": "2023-01-10T16:28:20Z",
+        "fix_commit_hash": "f292bad8ac92eaa0c9f6735b12742c0aa27be5e8",
+        "tipo": "PR",
+        "commit_author": "Michael Marshall",
+        "commiter": "GitHub",
+        "commit_date": "2023-02-22T11:09:57-06:00",
+        "committer_data": "2023-02-22T18:09:57+01:00",
+        "changed_files": 16,
+        "deletions": 609,
+        "insertions": 718,
+        "lines": 1327,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "pem",
+            "pem",
+            "pem",
+            "sh",
+            "java",
+            "pem",
+            "pem",
+            "pem",
+            "pem",
+            "pem",
+            "pem",
+            "pem",
+            "pem",
+            "pem",
+            "pem",
+            "pem"
+        ],
+        "matched": [
+            "5c09d536304e5873c4e1ceeb8353a1150b5d61f4"
+        ]
+    }
+]

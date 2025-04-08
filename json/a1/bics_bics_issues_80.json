@@ -1,0 +1,261 @@
+[
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/4480",
+        "earliest_issue_date": "2019-06-05T10:26:31Z",
+        "fix_commit_hash": "e19e5ba2f059383c7ac2b4ffca75e251b94f5b1e",
+        "tipo": "PR",
+        "commit_author": "Fangbin Sun",
+        "commiter": "Jia Zhai",
+        "commit_date": "2019-06-14T09:28:47+08:00",
+        "committer_data": "2019-06-14T09:28:47+08:00",
+        "changed_files": 2,
+        "deletions": 8,
+        "insertions": 54,
+        "lines": 62,
+        "dmm_unit_size": 0.0,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java",
+            "java"
+        ],
+        "matched": [
+            "0a7c64ba37e196fe666b52549100a261f78001f4"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/4478",
+        "earliest_issue_date": "2019-06-05T08:08:41Z",
+        "fix_commit_hash": "c540e28d98ba511b196111d73962956c80e6ffbe",
+        "tipo": "PR",
+        "commit_author": "Fangbin Sun",
+        "commiter": "Sijie Guo",
+        "commit_date": "2019-06-06T14:59:39+08:00",
+        "committer_data": "2019-06-05T23:59:39-07:00",
+        "changed_files": 2,
+        "deletions": 5,
+        "insertions": 36,
+        "lines": 41,
+        "dmm_unit_size": 0.0,
+        "dmm_unit_complexity": 0.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java",
+            "md"
+        ],
+        "matched": [
+            "9f849c324969e160f9891203b2a2e4805fae5a1c"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/4469",
+        "earliest_issue_date": "2019-06-04T14:48:20Z",
+        "fix_commit_hash": "c2fdf0810428e6ea55bb14e85985c28bb5e5dba4",
+        "tipo": "PR",
+        "commit_author": "Jia Zhai",
+        "commiter": "Matteo Merli",
+        "commit_date": "2019-06-07T04:17:53+08:00",
+        "committer_data": "2019-06-06T13:17:53-07:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 11,
+        "lines": 12,
+        "dmm_unit_size": 0.0,
+        "dmm_unit_complexity": 0.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java"
+        ],
+        "matched": [
+            "c07042460b251f31a83a77451d40399ebc592a1a"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/4456",
+        "earliest_issue_date": "2019-06-04T05:48:00Z",
+        "fix_commit_hash": "db3a056abbf3e841e4dee79067db516a5bc64195",
+        "tipo": "PR",
+        "commit_author": "Jia Zhai",
+        "commiter": "Sijie Guo",
+        "commit_date": "2019-06-05T02:42:41+08:00",
+        "committer_data": "2019-06-04T11:42:41-07:00",
+        "changed_files": 2,
+        "deletions": 1,
+        "insertions": 17,
+        "lines": 18,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "xml",
+            "md"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/4635",
+        "earliest_issue_date": "2019-06-28T10:16:57Z",
+        "fix_commit_hash": "bebce4f444344fa8d5eaa9de43fc5c882592148c",
+        "tipo": "PR",
+        "commit_author": "Rajan Dhabalia",
+        "commiter": "GitHub",
+        "commit_date": "2020-10-30T07:34:01-07:00",
+        "committer_data": "2020-10-30T22:34:01+08:00",
+        "changed_files": 3,
+        "deletions": 15,
+        "insertions": 99,
+        "lines": 114,
+        "dmm_unit_size": 0.13793103448275862,
+        "dmm_unit_complexity": 0.1724137931034483,
+        "dmm_unit_interfacing": 0.8275862068965517,
+        "files_exts": [
+            "java",
+            "java",
+            "java"
+        ],
+        "matched": [
+            "01b510464a0ea153dfe20ccef0cc0e1173bbb055"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/4602",
+        "earliest_issue_date": "2019-06-26T03:19:53Z",
+        "fix_commit_hash": "aeb4c3d61fa151f9c99cfa89a096cded080986fa",
+        "tipo": "PR",
+        "commit_author": "Sijie Guo",
+        "commiter": "Matteo Merli",
+        "commit_date": "2019-06-28T01:47:32+08:00",
+        "committer_data": "2019-06-27T10:47:31-07:00",
+        "changed_files": 2,
+        "deletions": 0,
+        "insertions": 126,
+        "lines": 126,
+        "dmm_unit_size": 1.0,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java",
+            "java"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/4586",
+        "earliest_issue_date": "2019-06-24T02:55:54Z",
+        "fix_commit_hash": "5de6e6ba9b566754f099fd1bd96809ed75ac1543",
+        "tipo": "PR",
+        "commit_author": "Yijie Shen",
+        "commiter": "Sijie Guo",
+        "commit_date": "2019-06-29T23:16:28+08:00",
+        "committer_data": "2019-06-29T23:16:28+08:00",
+        "changed_files": 8,
+        "deletions": 21,
+        "insertions": 91,
+        "lines": 112,
+        "dmm_unit_size": 0.0,
+        "dmm_unit_complexity": 0.9824561403508771,
+        "dmm_unit_interfacing": 0.9473684210526315,
+        "files_exts": [
+            "java",
+            "java",
+            "java",
+            "java",
+            "java",
+            "java",
+            "java",
+            "java"
+        ],
+        "matched": [
+            "bdfc09867325a271dc40a3aa87dcefb905769f06"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/4564",
+        "earliest_issue_date": "2019-06-20T06:11:56Z",
+        "fix_commit_hash": "4c3cac854a2b60d700f6e1b59ee700b97c0c4b84",
+        "tipo": "PR",
+        "commit_author": "Fangbin Sun",
+        "commiter": "Matteo Merli",
+        "commit_date": "2019-06-20T23:33:08+08:00",
+        "committer_data": "2019-06-20T08:33:08-07:00",
+        "changed_files": 2,
+        "deletions": 10,
+        "insertions": 8,
+        "lines": 18,
+        "dmm_unit_size": 1.0,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 0.0,
+        "files_exts": [
+            "java",
+            "java"
+        ],
+        "matched": [
+            "617712e2913c8f53873e60631905b7d14ccd947b"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/4558",
+        "earliest_issue_date": "2019-06-19T08:47:11Z",
+        "fix_commit_hash": "0cf0a09ec034dac60e300b4d0af8abfca8267689",
+        "tipo": "PR",
+        "commit_author": "lipenghui",
+        "commiter": "Matteo Merli",
+        "commit_date": "2019-06-26T03:37:45+08:00",
+        "committer_data": "2019-06-25T12:37:45-07:00",
+        "changed_files": 1,
+        "deletions": 0,
+        "insertions": 2,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "conf"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/4831",
+        "earliest_issue_date": "2019-07-27T06:46:50Z",
+        "fix_commit_hash": "147c3c8d29b9e1feda5f976c0d00503750538551",
+        "tipo": "PR",
+        "commit_author": "congbo",
+        "commiter": "Sijie Guo",
+        "commit_date": "2019-08-28T06:57:04+08:00",
+        "committer_data": "2019-08-27T15:57:04-07:00",
+        "changed_files": 2,
+        "deletions": 1,
+        "insertions": 66,
+        "lines": 67,
+        "dmm_unit_size": 1.0,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 0.0,
+        "files_exts": [
+            "java",
+            "java"
+        ],
+        "matched": [
+            "ff6de4a4f754ed7d14d64903f3baf05bdd90d23c"
+        ]
+    }
+]

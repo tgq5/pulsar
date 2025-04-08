@@ -1,0 +1,259 @@
+[
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/3712",
+        "earliest_issue_date": "2019-02-28T15:02:49Z",
+        "fix_commit_hash": "614a98d01a3d3e3f8cad76b758f6d3364f5c62ce",
+        "tipo": "PR",
+        "commit_author": "Le Labourier Marc",
+        "commiter": "Sijie Guo",
+        "commit_date": "2019-03-19T16:31:08+01:00",
+        "committer_data": "2019-03-19T23:31:08+08:00",
+        "changed_files": 4,
+        "deletions": 3,
+        "insertions": 48,
+        "lines": 51,
+        "dmm_unit_size": 0.034482758620689655,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 0.9655172413793104,
+        "files_exts": [
+            "py",
+            "py",
+            "cc",
+            "cc"
+        ],
+        "matched": [
+            "019ae66658201faca134b611ac8cfc3dcdf63d43"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/21559",
+        "earliest_issue_date": "2023-11-10T11:13:53Z",
+        "fix_commit_hash": "2cb54f3d8585f5c27d20fb6ac958ce29a400c878",
+        "tipo": "PR",
+        "commit_author": "PAN",
+        "commiter": "GitHub",
+        "commit_date": "2023-11-20T16:51:51+08:00",
+        "committer_data": "2023-11-20T16:51:51+08:00",
+        "changed_files": 1,
+        "deletions": 6,
+        "insertions": 35,
+        "lines": 41,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "java"
+        ],
+        "matched": [
+            "eefb5a8352a54ce9f0e6f93fba8f05d57f4077eb"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/21557",
+        "earliest_issue_date": "2023-11-10T07:32:09Z",
+        "fix_commit_hash": "6e18874d6f007be501827550b9894422ecd8eda8",
+        "tipo": "PR",
+        "commit_author": "fengyubiao",
+        "commiter": "GitHub",
+        "commit_date": "2023-12-08T13:33:30+08:00",
+        "committer_data": "2023-12-08T13:33:30+08:00",
+        "changed_files": 3,
+        "deletions": 25,
+        "insertions": 192,
+        "lines": 217,
+        "dmm_unit_size": 0.6292134831460674,
+        "dmm_unit_complexity": 0.7415730337078652,
+        "dmm_unit_interfacing": 0.7191011235955056,
+        "files_exts": [
+            "java",
+            "java",
+            "java"
+        ],
+        "matched": [
+            "da71ec2b2a6682ffbab60843756f638bedbd4460"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/21537",
+        "earliest_issue_date": "2023-11-07T12:58:36Z",
+        "fix_commit_hash": "2bf13547bf4b4ec9babd6513a87dffbd53d678bb",
+        "tipo": "PR",
+        "commit_author": "sinan liu",
+        "commiter": "GitHub",
+        "commit_date": "2023-12-01T20:03:38+08:00",
+        "committer_data": "2023-12-01T20:03:38+08:00",
+        "changed_files": 1,
+        "deletions": 0,
+        "insertions": 23,
+        "lines": 23,
+        "dmm_unit_size": 0.0,
+        "dmm_unit_complexity": 0.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/21535",
+        "earliest_issue_date": "2023-11-07T12:55:31Z",
+        "fix_commit_hash": "216b83008deb469e0fc55ed8117f0c393ebcb0ac",
+        "tipo": "PR",
+        "commit_author": "maheshnikam",
+        "commiter": "GitHub",
+        "commit_date": "2024-09-23T14:17:31+05:30",
+        "committer_data": "2024-09-23T11:47:31+03:00",
+        "changed_files": 2,
+        "deletions": 3,
+        "insertions": 4,
+        "lines": 7,
+        "dmm_unit_size": 1.0,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 0.0,
+        "files_exts": [
+            "java",
+            "java"
+        ],
+        "matched": [
+            "d0d9aa583b1ed1fc4387443d0d4d81c616ad77ff"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/21534",
+        "earliest_issue_date": "2023-11-07T12:55:08Z",
+        "fix_commit_hash": "757723e4c03b2aa2e5203e90fdb9ecb255e18a3b",
+        "tipo": "PR",
+        "commit_author": "Jiwei Guo",
+        "commiter": "GitHub",
+        "commit_date": "2023-12-12T17:16:21+08:00",
+        "committer_data": "2023-12-12T17:16:21+08:00",
+        "changed_files": 1,
+        "deletions": 8,
+        "insertions": 7,
+        "lines": 15,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "java"
+        ],
+        "matched": [
+            "50d93521ff5d9206d6f82ca37148b3779fc45f04"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/21506",
+        "earliest_issue_date": "2023-11-02T11:03:33Z",
+        "fix_commit_hash": "b949187e64638c231216a7220e4b93dff51ca3c5",
+        "tipo": "PR",
+        "commit_author": "Dezhi LIiu",
+        "commiter": "GitHub",
+        "commit_date": "2023-11-12T15:15:43+08:00",
+        "committer_data": "2023-11-12T15:15:43+08:00",
+        "changed_files": 3,
+        "deletions": 2,
+        "insertions": 87,
+        "lines": 89,
+        "dmm_unit_size": 0.6666666666666666,
+        "dmm_unit_complexity": 0.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java",
+            "java",
+            "java"
+        ],
+        "matched": [
+            "1d3e92e4e1591f1f320529a037083eda1da21abb"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/21504",
+        "earliest_issue_date": "2023-11-02T06:43:57Z",
+        "fix_commit_hash": "f3f5fbc27391e13ab76b0f2265f51ac3a5c0a90c",
+        "tipo": "PR",
+        "commit_author": "ken",
+        "commiter": "GitHub",
+        "commit_date": "2023-11-03T17:58:18+08:00",
+        "committer_data": "2023-11-03T11:58:18+02:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 2,
+        "lines": 3,
+        "dmm_unit_size": 0.0,
+        "dmm_unit_complexity": 0.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java"
+        ],
+        "matched": [
+            "384c528a8db9547e5ef995b5f177a7e72b3b14aa"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/21501",
+        "earliest_issue_date": "2023-11-01T22:02:55Z",
+        "fix_commit_hash": "3396065a3a62af3e3586700f0bbfcbff93716b48",
+        "tipo": "PR",
+        "commit_author": "Jiwei Guo",
+        "commiter": "GitHub",
+        "commit_date": "2023-12-12T17:09:17+08:00",
+        "committer_data": "2023-12-12T17:09:17+08:00",
+        "changed_files": 2,
+        "deletions": 2,
+        "insertions": 18,
+        "lines": 20,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "java",
+            "java"
+        ],
+        "matched": [
+            "f8ee8de287c411414d76c65c864c59c4d958e615"
+        ]
+    },
+    {
+        "repo_name": "pulsar",
+        "repo_url": "apache/pulsar",
+        "issue_html_url": "https://github.com/apache/pulsar/issues/21484",
+        "earliest_issue_date": "2023-10-31T07:50:30Z",
+        "fix_commit_hash": "08067451c0dc5e22d319c003d1834681422a03c2",
+        "tipo": "PR",
+        "commit_author": "hanmz",
+        "commiter": "GitHub",
+        "commit_date": "2023-11-11T12:36:29+08:00",
+        "committer_data": "2023-11-11T12:36:29+08:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "java"
+        ],
+        "matched": [
+            "3a5df1ae71a29873fdd91295763342b90f9bc224"
+        ]
+    }
+]

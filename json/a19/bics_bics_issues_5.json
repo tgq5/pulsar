@@ -1,0 +1,18 @@
+[
+    {
+        "fix_commit_hash": "4b37fdaeb1f0a286e591e44120da46d33a1c0cc5",
+        "repo_name": "pulsar",
+        "best_scenario_issue_date": "2018-06-07T13:36:00-07:00",
+        "matched": [
+            "cb74f216f4905570df151024ee88c09d5db4ae88"
+        ]
+    },
+    {
+        "fix_commit_hash": "03ab0d78706c4b310b7b4fdfd632346463c0e928",
+        "repo_name": "pulsar",
+        "best_scenario_issue_date": "2018-04-28T01:22:00+02:00",
+        "matched": [
+            "6001c417c7edf5892c55bc64e299023f16a5fbd9"
+        ]
+    }
+]
